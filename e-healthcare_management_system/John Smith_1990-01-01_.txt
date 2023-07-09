@@ -1,0 +1,9 @@
+Patient Name: John Smith
+Date of Birth: 1990-01-01
+Gender: Male
+Contact Information: johnsmith@example.com
+Medical History:
+Diagnosis: Hypertension
+Treatment: Prescription medication
+Medication: Medicine A
+
