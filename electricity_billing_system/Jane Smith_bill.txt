@@ -1,0 +1,10 @@
+********** Electricity Bill **********
+Customer Name: Jane Smith
+Contact Info: jane.smith@example.com
+Meter Number: 67890
+--------------------------------------
+Consumption: 150.2 units
+Rate per Unit: $0.12
+Total Amount Due: $18.024
+Bill Date: Thu Jan  1 04:00:00 1970
+--------------------------------------

@@ -1,0 +1,10 @@
+********** Electricity Bill **********
+Customer Name: John Doe
+Contact Info: john.doe@example.com
+Meter Number: 12345
+--------------------------------------
+Consumption: 100.5 units
+Rate per Unit: $0.15
+Total Amount Due: $15.075
+Bill Date: Thu Jan  1 04:00:00 1970
+--------------------------------------
