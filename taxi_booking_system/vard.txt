@@ -1,0 +1,9 @@
+Receipt
+-------
+User: vard
+Contact: gh@gmail
+Taxi: 123
+Driver: name1
+Distance: 20 km
+Class: comfort
+Fare: $36
