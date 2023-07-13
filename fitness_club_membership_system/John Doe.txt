@@ -1,0 +1,8 @@
+Monthly Bill for John Doe
+-------------------------
+Membership Level: Premium
+Fitness Area: 2 entries used.
+Massages: 1 used.
+Pool: 3 entries used.
+Total Amount Due: $75
+

@@ -1,0 +1,8 @@
+Monthly Bill for Jane Smith
+-------------------------
+Membership Level: Standard
+Fitness Area: 2 entries used.
+Massages: 1 used.
+Pool: 1 entries used.
+Total Amount Due: $50
+
